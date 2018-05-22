@@ -1,7 +1,7 @@
 # CakeCRUD
-This is my crud application developed using CakePHP 2.6.1
+This Is My CRUD Application Developed Using CakePHP 2.6.1
 
-Database    :   cakecrud [Table : students(id, name, address, phone, created, modified)]
-Model       :   Students
-Controller  :   StudentsController (index, view, add, edit, delete)
-View        :   index.ctp, view.ctp, add.ctp, edit.ctp
+Database____:___cakecrud [Table : students(id, name, address, phone, created, modified)] <br />
+Model_______:___Students<br />
+Controller__:___StudentsController (index, view, add, edit, delete)<br />
+View________:___index.ctp, view.ctp, add.ctp, edit.ctp<br />
